@@ -1,7 +1,7 @@
 Code First: Girls Development Enviroment
 ========================================
 
-Experimental development environment to support Code First: Girls.
+(Work in progress!) Development environment to support Code First: Girls.
 
 # What's this all about?
 
