@@ -40,5 +40,11 @@ cd codefirstgirls-development-environment
 vagrant up
 ```
 
+# What have we set up?
+
+![](https://github.com/CalumJEadie/codefirstgirls-development-environment/raw/master/docs/guest-within-host.png)
+
+![](https://github.com/CalumJEadie/codefirstgirls-development-environment/raw/master/docs/ports-and-folders-mappings.png)
+
 # Resources ( things that were helpful in putting this project together )
 
